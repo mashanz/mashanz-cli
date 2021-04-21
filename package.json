@@ -1,0 +1,14 @@
+{
+  "name": "mashanz",
+  "version": "1.0.0",
+  "description": "Mashanz Profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mashanz",
+  "license": "MIT",
+  "bin": {
+    "mashanz": "index.js"
+  }
+}
