@@ -1,6 +1,6 @@
 {
   "name": "mashanz",
-  "version": "0.0.3",
+  "version": "0.0.3-rc",
   "description": "Mashanz Profile",
   "main": "index.js",
   "repository": "https://github.com/mashanz/mashanz-cli.git",
@@ -11,5 +11,8 @@
   "license": "MIT",
   "bin": {
     "mashanz": "index.js"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   }
 }
